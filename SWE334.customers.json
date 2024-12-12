@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6642d233d4d5f9bce62354b4"
+  },
+  "customername": "Saraa",
+  "address": "UB, Sukhbaatar district, ",
+  "phone": 99940433,
+  "email": "sarangqwe@gmail.com",
+  "password": "123",
+  "__v": 0
+}]
